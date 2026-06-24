@@ -1,4 +1,5 @@
 # DataView: Exploração e Análise de Dados de Vendas 📊
+Projeto desenvolvido por: Henrique Goulart da Silveira
 
 ## 1. Contextualização do Projeto
 Este é um miniprojeto de Análise de Dados desenvolvido para gerar insights estratégicos a partir de um histórico de vendas. O objetivo principal foi atuar como um Analista de Dados Júnior, recebendo um dataset bruto com inconsistências estruturais, e aplicar um pipeline completo de limpeza, transformação e análise com foco em uma reunião trimestral da diretoria.
