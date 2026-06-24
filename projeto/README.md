@@ -51,4 +51,4 @@ README.md                     # Documentação do projeto
 3. Abra o arquivo `dataview.ipynb` na sua IDE de preferência (Jupyter, VS Code) ou faça o upload no Google Colab.
 4. Execute a célula final que contém a função principal do pipeline. Todo o fluxo de limpeza, gráficos e a estrutura de pastas serão gerados automaticamente.
 
-## 7. Link para o vídeo demonstração do projeto (não é necessario login no site): https://www.loom.com/share/561e524e39d64615ac72e45a7630922d
+## 7. Link para o vídeo demonstração do projeto (não é necessario login no site): https://www.loom.com/share/561e524e39d64615ac72e45a7630922d https://drive.google.com/file/d/1d7I9kNTOva_c8Mny8NH6ddEKB0C5rdLD/view?usp=sharing
