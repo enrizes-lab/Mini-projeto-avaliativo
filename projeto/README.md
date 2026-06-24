@@ -50,3 +50,5 @@ README.md                     # Documentação do projeto
 2. Certifique-se de ter as bibliotecas instaladas executando no terminal: `pip install pandas numpy matplotlib seaborn`
 3. Abra o arquivo `dataview.ipynb` na sua IDE de preferência (Jupyter, VS Code) ou faça o upload no Google Colab.
 4. Execute a célula final que contém a função principal do pipeline. Todo o fluxo de limpeza, gráficos e a estrutura de pastas serão gerados automaticamente.
+
+## 7. Link para o vídeo demonstração do projeto (não é necessario login no site): https://www.loom.com/share/561e524e39d64615ac72e45a7630922d
